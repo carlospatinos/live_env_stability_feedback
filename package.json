@@ -1,0 +1,29 @@
+{
+  "name": "live_env_stability_feedback",
+  "version": "1.0.0",
+  "description": "Playing around with light and env on fire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospatinos/live_env_stability_feedback.git"
+  },
+  "keywords": [
+    "xioami",
+    "dev",
+    "dev_env_on_fire"
+  ],
+  "author": "Carlos Patino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlospatinos/live_env_stability_feedback/issues"
+  },
+  "homepage": "https://github.com/carlospatinos/live_env_stability_feedback#readme",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "play-sound": "^1.1.3",
+    "yeelight-platform": "^1.0.9"
+  }
+}
