@@ -1,5 +1,5 @@
-# live_env_stability_feedback
-This project was created to change lights at home when some env is on fire. 
+# Controlling yeelight lights with code
+This project was created to change lights at home. You can use it to monitor the stability of any software and I used to check when some env is on fire :). 
 
 Before you start, you need to enable #LAN_CONTROL on your devices as in (here)[https://www.yeelight.com/faqs/lan_control] This will allow the application to discover the bulbs. 
 
@@ -9,3 +9,6 @@ Some of the cases depending on how fast you change the colouds, or how many time
 
 # Important
 This code is comes with no waranty and the author (me) cannot be liabe for any issues regarding this code and your lights. So feel free to play at your own risk.
+
+# The video
+You can find the video [here](https://www.youtube.com/watch?v=JDOhvzieloY).
